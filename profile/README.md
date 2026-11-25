@@ -11,5 +11,6 @@ Free, open source studio tools that run on your own hardware.
 | [Gantrel](https://github.com/Students-of-Local/Gantrel) | 3D design studio, from printing to architecture |
 | [Smoothstone](https://github.com/Students-of-Local/smoothstone) | A skill and CLI that lets small local models make 3D printable parts |
 | [Fonsviva](https://github.com/Students-of-Local/Fonsviva) | Serve and manage local models |
+| [Plutarch](https://github.com/Students-of-Local/plutarch) | A skill that lets a local agent make a short documentary about a real person |
 
 Work is planned on the [board](https://github.com/orgs/Students-of-Local/projects). People and agents both use it; [BOARD.md](https://github.com/Students-of-Local/.github/blob/main/BOARD.md) has the rules.
