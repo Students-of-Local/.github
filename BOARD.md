@@ -29,4 +29,4 @@ gh project item-edit 1 --owner Students-of-Local --url URL --field Worker --clea
 ./board-sync.sh 1
 ```
 
-`board-sync.sh` adds open issues and pull requests that are missing. It never moves a card.
+`board-sync.sh` puts open issues in Inbox and open pull requests in Review, and leaves placed cards alone.

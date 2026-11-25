@@ -8,5 +8,8 @@ A repo's own `AGENTS.md` wins over this page. These rules hold everywhere else.
 - **A new feature, dependency or direction starts as an issue.** Write code once a maintainer agrees.
 - **A product never depends on another product or a private service.** Everyone can run their own tunnel, Tailscale or VPN.
 - **Check it end to end.** Build and run the real thing, and say what you ran. A check must be able to fail.
+- **Claim only what you checked.** Keep planned, built and working apart. Say what you didn't run.
+- **Repair small.** Sharpen or delete before you add.
+- **Spend people's attention last.** A change adds no prompt, approval or wait to someone's work unless they need it.
 - **Swallow no errors.**
 - **Describe only the change.** Leave out private paths, people and internal process.
